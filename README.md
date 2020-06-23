@@ -15,6 +15,6 @@ This was my first portfolio built in June, 2019.
 - ESLint
 - Prettier
 
-### Check out my website!
+## Follow me!
 
-http://bartzalewski.com
+[Website](https://www.bartzalewski.com) • [Instagram](https://www.instagram.com/bart.code) • [YouTube](https://www.youtube.com/channel/UCwkU0-_RJbS16X5pbcW-tPQ)
